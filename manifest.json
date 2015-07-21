@@ -1,0 +1,9 @@
+{
+   "info":
+   {
+      "name" : "Fog of War disabler",
+      "version" : 1
+   },
+
+   "server_init_script" : "file(server_init)"
+}
